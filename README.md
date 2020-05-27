@@ -15,5 +15,5 @@
 #### Idle/Disintegration
 ![VortexDisassemble](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/Disintegration.gif)
 
-#### Appear/CirclarPower
+#### Appear/CirclarPower(×2 as fast)
 ![CirclarPower](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/CirclarPower.gif)
