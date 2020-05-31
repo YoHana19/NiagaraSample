@@ -21,7 +21,7 @@ You can see original demo videos [here](https://yooo19.tumblr.com/)
 ![CirclurPower](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/CirclarPower.gif)
 
 #### Item/VortexTextureMorph(×2.5 as fast)
-![VortexTextureMorph](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/VortexTexturMorph.gif)
+![VortexTextureMorph](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/VortexTextureMorph.gif)
 
 #### Item/TronCube(×2 as fast)
 reference: https://www.youtube.com/watch?v=KHiZfy5OlO8&t=575s
