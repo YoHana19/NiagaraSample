@@ -11,6 +11,10 @@ You can see original demo videos [here](https://yooo19.tumblr.com/)
 #### Move/Locus
 ![MoveLocus](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MoveLocus.gif)
 
+#### Move/HandFoot(×1.5, ×2 as fast)
+![HandFoot_1](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/HandFoot_1.gif)
+![HandFoot_2](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/HandFoot_2.gif)
+
 #### Idle/OrbittingBody
 ![OrbittingBody](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/OrbittingBody.gif)
 
@@ -36,6 +40,19 @@ reference: https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shad
 reference: https://www.youtube.com/watch?v=qWwDLmoEmQM
 
 ![Hologram](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/Hologram.gif)
+
+#### MeshMorph/Directional(×2 as fast)
+![MeshMorphDirectional](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MeshMorphDirectional.gif)
+
+#### MeshMorph/ScatterSimple(×2 as fast)
+![MeshMorphScatterSimple](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MeshMorphScatterSimple.gif)
+
+#### MeshMorph/ScatterSharp(×2 as fast)
+![MeshMorphScatterSharp](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MeshMorphScatterSharp.gif)
+
+#### MeshMorph/Absorb(×2 as fast)
+![MeshMorphAbsorb_1](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MeshMorphAbsorb_1.gif)
+![MeshMorphAbsorb_2](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MeshMorphAbsorb_2.gif)
 
 #### Appear/CirclurPower(×2 as fast)
 ![CirclurPower](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/CirclarPower.gif)
