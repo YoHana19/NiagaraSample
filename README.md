@@ -1,5 +1,11 @@
 # NiagaraSample (+ Material Effect)
 
+## Enviroment
+
+UE4.25
+
+## Demo
+
 You can see original demo videos [here](https://yooo19.tumblr.com/)
 
 #### Vanish/SimpleNormalDisassemble(left), SimplePositionDisassemble(right)
@@ -76,6 +82,14 @@ reference: https://www.youtube.com/watch?v=KHiZfy5OlO8&t=575s
 
 ![TronCube](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/TronCube.gif)
 
+#### AudioVisualizer/CubeDance
+![CubeDanceAV](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/CubeDanceAV.gif)
+
+#### AudioVisualizer/SimpleAV
+reference: https://www.youtube.com/watch?v=k5e5vdW5ITc&t=4s
+
+![SimpleAV](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/SimpleAV.gif)
+
 #### Teleport/DirectionalTeleport
 ![DirectionalTeleport](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/DirectionalTeleport.gif)
 
@@ -113,5 +127,11 @@ Left demo is not included in this repository as same above.
 #### PostProcessFX/StencilGlitch
 ![StencilGlitch](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/StencilGlitch.gif)
 
+#### PostProcessFX/StencilRGBGlitch
+![RGBGlitch](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/RGBGlitch.gif)
+
 #### PostProcessFX/StencilWavy
 ![StencilWavy](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/StencilWavy.gif)
+
+#### PostProcessFX/StencilWavy2
+![StencilWavy2](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/StencilWavy2.gif)
