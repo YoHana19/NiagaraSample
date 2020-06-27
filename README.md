@@ -65,6 +65,9 @@ reference: https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shad
 #### ApVa/DirectionalDissolve
 ![DirectionalDissolve](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/DirectionalDissolve.gif)
 
+#### ApVa/CellDissolve(×2 as fast)
+![CellDisolve](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/CellDisolve.gif)
+
 #### Item/VortexTextureMorph(×2.5 as fast)
 ![VortexTextureMorph](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/VortexTextureMorph.gif)
 
@@ -72,6 +75,18 @@ reference: https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shad
 reference: https://www.youtube.com/watch?v=KHiZfy5OlO8&t=575s
 
 ![TronCube](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/TronCube.gif)
+
+#### Teleport/DirectionalTeleport
+![DirectionalTeleport](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/DirectionalTeleport.gif)
+
+#### Teleport/VerticalTeleport
+![VerticalTeleport](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/VerticalTeleport.gif)
+
+#### Teleport/ParticleDissolveTeleport
+![ParticleDissolveTeleport](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/ParticleDissolveTeleport.gif)
+
+#### Teleport/ParticleTrailTeleport
+![ParticleTrailTeleport](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/ParticleTrailTeleport.gif)
 
 #### PostProcessFX/BackPower
 reference: https://www.youtube.com/watch?v=icQYFo8fMrU
@@ -94,3 +109,9 @@ Left demo is not included in this repository as same above.
 
 ![WorldDeres_City](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/WorldDeres_City.gif)
 ![WorldDeres](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/WorldDeres.gif)
+
+#### PostProcessFX/StencilGlitch
+![StencilGlitch](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/StencilGlitch.gif)
+
+#### PostProcessFX/StencilWavy
+![StencilWavy](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/StencilWavy.gif)
