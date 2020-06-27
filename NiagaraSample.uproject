@@ -149,6 +149,10 @@
 		{
 			"Name": "NiagaraExtras",
 			"Enabled": true
+		},
+		{
+			"Name": "TimeSynth",
+			"Enabled": true
 		}
 	]
 }
