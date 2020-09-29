@@ -21,6 +21,9 @@ You can see original demo videos [here](https://yooo19.tumblr.com/)
 ![HandFoot_1](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/HandFoot_1.gif)
 ![HandFoot_2](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/HandFoot_2.gif)
 
+#### Move/AfterImage
+![AfterImage](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/AfterImage.gif)
+
 #### Idle/OrbittingBody
 ![OrbittingBody](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/OrbittingBody.gif)
 
