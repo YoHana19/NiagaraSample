@@ -40,6 +40,12 @@ reference: https://www.youtube.com/watch?v=1XPP7ZhqDkE
 
 ![BodyShield](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/BodyShield.gif)
 
+#### Idle/BodyFire
+reference: https://www.youtube.com/watch?v=eFRqa-l5OTM
+
+![BodyFire](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/BodyFire.gif)
+
+
 #### Idle/GlitchDeformation
 reference: https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shader/art/unreal%20engine/Glitch-Effects
 
