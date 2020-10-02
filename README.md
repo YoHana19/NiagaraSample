@@ -45,6 +45,11 @@ reference: https://www.youtube.com/watch?v=eFRqa-l5OTM
 
 ![BodyFire](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/BodyFire.gif)
 
+#### Idle/BodyThunder
+reference: https://www.youtube.com/watch?v=fviiy1QwLbI&t=531s
+
+![BodyThunder](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/BodyThunder.gif)
+![HandThunder](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/HandThunder.gif)
 
 #### Idle/GlitchDeformation
 reference: https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shader/art/unreal%20engine/Glitch-Effects
