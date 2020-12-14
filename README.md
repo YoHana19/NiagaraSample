@@ -45,6 +45,9 @@ reference: https://www.youtube.com/watch?v=eFRqa-l5OTM
 
 ![BodyFire](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/BodyFire.gif)
 
+#### Idle/FireAura
+![FireAura](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/FireAura.gif)
+
 #### Idle/BodyThunder
 reference: https://www.youtube.com/watch?v=fviiy1QwLbI&t=531s
 
@@ -60,6 +63,9 @@ reference: https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shad
 reference: https://www.youtube.com/watch?v=qWwDLmoEmQM
 
 ![Hologram](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/Hologram.gif)
+
+#### Idle/MirrorMan
+![MirrorMan](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MirrorMan.gif)
 
 #### MeshMorph/Directional(×2 as fast)
 ![MeshMorphDirectional](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/MeshMorphDirectional.gif)
@@ -87,6 +93,9 @@ reference: https://deepspacebanana.github.io/deepspacebanana.github.io/blog/shad
 
 #### ApVa/CellDissolve(×2 as fast)
 ![CellDisolve](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/CellDisolve.gif)
+
+#### ApVa/ShinyShow
+![ShinyShow](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/ShinyShow.gif)
 
 #### Item/VortexTextureMorph(×2.5 as fast)
 ![VortexTextureMorph](https://raw.github.com/wiki/YoHana19/NiagaraSample/images/VortexTextureMorph.gif)
